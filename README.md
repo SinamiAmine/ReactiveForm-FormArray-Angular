@@ -25,3 +25,24 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+{
+"name": "null",
+"lname": "null",
+"address": {
+"address1": "null",
+"address2": "null",
+"postcode": "null",
+"country": "null"
+},
+"contacts": [
+{
+"phoneNo": "null",
+"email": "null"
+},
+{
+"phoneNo": "null",
+"email": "null"
+}
+]
+}
